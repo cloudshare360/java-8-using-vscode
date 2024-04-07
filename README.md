@@ -27,6 +27,7 @@ https://code.visualstudio.com/docs/java/java-tutorial
 ### 07. Java Sys Out method is created and now enter HelloWorld in quotes
 ![alt text](image-08.png)
 
-### 08. Now you have option to run and debug. You click on Debug on the line 8 to create debug point and when you click on debug link, it will automatically stop at the line 8.
-![alt text](image-09.png)
+### 08. Now you have option to run and debug. You click on Debug on the line 8 to create debug point and when you click on debug link, 
+it will automatically stop at the line 8.
+
 
