@@ -30,35 +30,3 @@ https://code.visualstudio.com/docs/java/java-tutorial
 ### 08. Now you have option to run and debug. You click on Debug on the line 8 to create debug point and when you click on debug link, it will automatically stop at the line 8.
 ![alt text](image-09.png)
 
-
-![alt text](image-10.png)
-
-![alt text](image-10.png)
-
-Now user will see the class skeleton code
-
-Now type main and enter as in the screenshot
-
-Now main method is created
-
-Now type sys  and select sysout in the list and click enter this will create output method
-
-add the string hello.
-
-This will enable to Run and Debug options at the top of the class
-
-Type Class and enter
-
-
-It will create Class Structure
-![alt text](image-1.png)
-
-Type "main"
-![alt text](image-2.png)
-
-main method is created
-![alt text](image-3.png)
-
-![alt text](image-4.png
-
-)![alt text](image-5.png)
